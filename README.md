@@ -1,4 +1,4 @@
-# 🤖GAAJU-MD_V2🇳🇬
+# 🤖GAAJU-MD_V2
 
 <div align="center">  
   <img src="https://files.catbox.moe/npj0z9.png" alt="GAAJU-MD" height="300"/>  
@@ -12,8 +12,8 @@
 ## 📊 Repo Stats
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=Shafiullah90&label=👀+Profile+Views&color=ff69b4&style=for-the-badge"/>  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shafiullah90.Shafi-king-bot&left_color=blueviolet&right_color=brightgreen&left_text=Unique+Visitors"/>  
+  <img src="https://komarev.com/ghpvc/?username=Xchristech2&label=👀+Profile+Views&color=ff69b4&style=for-the-badge"/>  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xchristech2.Shafi-king-bot&left_color=blueviolet&right_color=brightgreen&left_text=Unique+Visitors"/>  
   <img src="https://img.shields.io/github/repo-size/Shafiullah90/Shafi-king-bot?color=gold&style=for-the-badge&logo=github&label=Repo+Size"/>  
 </p>  
 
