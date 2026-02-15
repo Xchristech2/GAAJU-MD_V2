@@ -1,10 +1,10 @@
-# 🤖PATHAN-BOT🇦🇫
+# 🤖GAAJU-MD_V2🇳🇬
 
 <div align="center">  
-  <img src="https://files.catbox.moe/psvj7p.jpeg" alt="PATHAN-BOT" height="300"/>  
+  <img src="https://files.catbox.moe/npj0z9.png" alt="GAAJU-MD" height="300"/>  
   <br><br>  
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=40&pause=1000&color=ff00ff,00ffff,32cd32,ffa500&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+PATHAN-BOT!;Multi-Device+WhatsApp+Bot;Fast+%7C+Reliable+%7C+Powerful;Made+with+%E2%9D%A4+by+Shafi+Pathan"/>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=40&pause=1000&color=ff00ff,00ffff,32cd32,ffa500&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+GAAJU-MD!;Multi-Device+WhatsApp+Bot;Fast+%7C+Reliable+%7C+Powerful;Made+with+%E2%9D%A4+by+Chris+Gaaju"/>  
 </div>  
 
 ---
