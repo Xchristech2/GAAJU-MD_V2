@@ -127,7 +127,7 @@ node index.js
 <p align="center">  
   <a href="https://wa.me/2348069675806"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
   <a href="https://t.me/Official_ChrisGaaju"><img src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
-  <a href="https://www.facebook.com/Shafikhanicfu"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
+  <a href="https://t.me/ZenitsuBotupdate"><img src="https://img.shields.io/badge/Telegram-Channel-%231877F2?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
 </p>  
 
 <p align="center">  
