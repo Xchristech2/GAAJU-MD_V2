@@ -13,7 +13,7 @@
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=Xchristech2&label=👀+Profile+Views&color=ff69b4&style=for-the-badge"/>  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xchristech2.Shafi-king-bot&left_color=blueviolet&right_color=brightgreen&left_text=Unique+Visitors"/>  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Xchristech2.GAAJU-MD_V2&left_color=blueviolet&right_color=brightgreen&left_text=Unique+Visitors"/>  
   <img src="https://img.shields.io/github/repo-size/Xchristech2/Zenitsu-Bot?color=gold&style=for-the-badge&logo=github&label=Repo+Size"/>  
 </p>  
 
@@ -23,9 +23,9 @@
 
 <p align="center">  
   <a href="https://github.com/Xchristech2/GAAJU-MD_V2/forks"><img src="https://img.shields.io/github/forks/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=darkgreen"/></a>  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/stargazers"><img src="https://img.shields.io/github/stars/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=yellow"/></a>  
+  <a href="https://github.com/Xchristech2/GAAJU-MD_V2/stargazers"><img src="https://img.shields.io/github/stars/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=yellow"/></a>  
   <a href="https://github.com/Xchristech2/GAAJU-MD_V2/issues"><img src="https://img.shields.io/github/issues/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=red"/></a>  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot"><img src="https://img.shields.io/badge/Made%20By-Chris%20Gaaju-blueviolet?style=for-the-badge"/></a>  
+  <a href="https://github.com/Xchristech2/GAAJU-MD_V2"><img src="https://img.shields.io/badge/Made%20By-Chris%20Gaaju-blueviolet?style=for-the-badge"/></a>  
 </p>  
 
 ---
@@ -34,11 +34,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=500&height=40&lines=Quick+Links"/>  
 </div>  
 
-*✅ Fork the Repository: [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/forks)*
+*✅ Fork the Repository: [CLICK HERE](https://github.com/Xchristech2/GAAJU-MD_V2/forks)*
 
-*⭐ Star the Repo: [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/stargazers)*
+*⭐ Star the Repo: [CLICK HERE](https://github.com/Xchristech2/GAAJU-MD_V2/stargazers)*
 
-*💾 Download ZIP: [CLICK HERE](https://github.com/Shafiullah90/Shafi-king-bot/archive/refs/heads/main.zip)*
+*💾 Download ZIP: [CLICK HERE](https://github.com/Xchristech2/GAAJU-MD_V2/archive/refs/heads/main.zip)*
 
 *🚀 Deploy on Hosting Panel: [CLICK HERE](https://bot-hosting.net/?aff=1275699384331403356)*
 
@@ -89,10 +89,10 @@ pkg update && pkg upgrade
 pkg install git nodejs -y
 
 # Clone repo
-git clone https://github.com/Shafiullah90/Shafi-king-bot.git
+git clone https://github.com/Xchristech2/GAAJU-MD_V2.git
 
 # Enter folder
-cd Shafi-king-bot
+cd Gaaju-md-v2
 
 # Install dependencies
 npm install
@@ -126,13 +126,13 @@ node index.js
 
 <p align="center">  
   <a href="https://wa.me/93703802176"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-  <a href="https://t.me/Shafikhanbe"><img src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
+  <a href="https://t.me/Official_ChrisGaaju"><img src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
   <a href="https://www.facebook.com/Shafikhanicfu"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
 </p>  
 
 <p align="center">  
-  <a href="https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t"><img src="https://img.shields.io/badge/WhatsApp_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-  <a href="https://chat.whatsapp.com/JvIe71GfSU9IYDBO8YRsDu?mode=ac_t"><img src="https://img.shields.io/badge/Bot_Support-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+  <a href="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?mode=ac_t"><img src="https://img.shields.io/badge/WhatsApp_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+  <a href="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?mode=ac_t"><img src="https://img.shields.io/badge/Bot_Support-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
 </p>  
 
 ---
