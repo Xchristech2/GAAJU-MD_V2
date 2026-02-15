@@ -14,7 +14,7 @@
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=Xchristech2&label=👀+Profile+Views&color=ff69b4&style=for-the-badge"/>  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Xchristech2.Shafi-king-bot&left_color=blueviolet&right_color=brightgreen&left_text=Unique+Visitors"/>  
-  <img src="https://img.shields.io/github/repo-size/Shafiullah90/Shafi-king-bot?color=gold&style=for-the-badge&logo=github&label=Repo+Size"/>  
+  <img src="https://img.shields.io/github/repo-size/Xchristech2/Zenitsu-Bot?color=gold&style=for-the-badge&logo=github&label=Repo+Size"/>  
 </p>  
 
 ---
@@ -22,10 +22,10 @@
 ## 🏆 GitHub Stats
 
 <p align="center">  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/forks"><img src="https://img.shields.io/github/forks/Shafiullah90/Shafi-king-bot?style=for-the-badge&logo=github&color=darkgreen"/></a>  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/stargazers"><img src="https://img.shields.io/github/stars/Shafiullah90/Shafi-king-bot?style=for-the-badge&logo=github&color=yellow"/></a>  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot/issues"><img src="https://img.shields.io/github/issues/Shafiullah90/Shafi-king-bot?style=for-the-badge&logo=github&color=red"/></a>  
-  <a href="https://github.com/Shafiullah90/Shafi-king-bot"><img src="https://img.shields.io/badge/Made%20By-Shafi%20Pathan-blueviolet?style=for-the-badge"/></a>  
+  <a href="https://github.com/Xchristech2/GAAJU-MD_V2/forks"><img src="https://img.shields.io/github/forks/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=darkgreen"/></a>  
+  <a href="https://github.com/Shafiullah90/Shafi-king-bot/stargazers"><img src="https://img.shields.io/github/stars/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=yellow"/></a>  
+  <a href="https://github.com/Xchristech2/GAAJU-MD_V2/issues"><img src="https://img.shields.io/github/issues/Xchristech2/GAAJU-MD_V2?style=for-the-badge&logo=github&color=red"/></a>  
+  <a href="https://github.com/Shafiullah90/Shafi-king-bot"><img src="https://img.shields.io/badge/Made%20By-Chris%20Gaaju-blueviolet?style=for-the-badge"/></a>  
 </p>  
 
 ---
