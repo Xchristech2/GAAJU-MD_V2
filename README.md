@@ -132,7 +132,7 @@ node index.js
 
 <p align="center">  
   <a href="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?mode=ac_t"><img src="https://img.shields.io/badge/WhatsApp_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
-  <a href="https://chat.whatsapp.com/HhuLiSRKTzdCP4NjCXkt21?mode=ac_t"><img src="https://img.shields.io/badge/Bot_Support-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+  <a href="https://whatsapp.com/channel/0029VbBvGgyFsn0alyIDjw0z?mode=ac_t"><img src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
 </p>  
 
 ---
