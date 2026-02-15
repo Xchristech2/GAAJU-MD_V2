@@ -125,7 +125,7 @@ node index.js
 </div>  
 
 <p align="center">  
-  <a href="https://wa.me/93703802176"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+  <a href="https://wa.me/2348069675806"><img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
   <a href="https://t.me/Official_ChrisGaaju"><img src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
   <a href="https://www.facebook.com/Shafikhanicfu"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
 </p>  
@@ -142,5 +142,5 @@ node index.js
 <div align="center">  
   <img src="https://capsule-render.vercel.app/api?  type=waving&color=gradient&height=90&section=footer&animation=twinkling"/>  
   <br>  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff00ff,00ffff,32cd32,ffa500&center=true&vCenter=true&width=900&lines=✨+Made+with+Love+by+Shafi+Pathan🇦🇫;⭐+Star+the+Repo+if+you+Love+It!;🚀+The+Future+of+WhatsApp+Bots+is+Here"/>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff00ff,00ffff,32cd32,ffa500&center=true&vCenter=true&width=900&lines=✨+Made+with+Love+by+Chris+Gaaju🇳🇬;⭐+Star+the+Repo+if+you+Love+It!;🚀+The+Future+of+WhatsApp+Bots+is+Here"/>  
 </div>  
